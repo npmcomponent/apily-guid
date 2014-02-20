@@ -1,0 +1,12 @@
+{
+  "name": "apily-guid",
+  "description": "Simple prefixed unique id generator",
+  "version": "0.0.1",
+  "keywords": [
+    "unique",
+    "id",
+    "generator"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
